@@ -1,3 +1,4 @@
+
 public class T20Match extends Match {
 
 	public T20Match() {
