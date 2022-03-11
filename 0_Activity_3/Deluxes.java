@@ -1,3 +1,4 @@
+
 class Deluxe extends Hotelroom{
 
     private int ratepersqfeet=10;
