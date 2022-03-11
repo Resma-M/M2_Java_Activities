@@ -1,3 +1,4 @@
+
 public abstract class Match {
 
 	private int currentScore;
