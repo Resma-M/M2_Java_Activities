@@ -1,3 +1,4 @@
+
 class Suiteroom extends Hotelroom{
 
     private int ratepersqfeet=15;
